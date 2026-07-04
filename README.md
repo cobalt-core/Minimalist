@@ -2,7 +2,8 @@
 A custom-built Rainmeter suite focused on clustered data visualization and automation. This project was developed as part of my learning journey into scripting in **2022**. Feel free to use it as you like, though it's pretty much outdated and won't do anything cool.
 
 ## Preview
-TBA
+<img width="781" height="541" alt="image" src="https://github.com/user-attachments/assets/99c60db0-3ada-431b-bb06-0d532a1991b4" />
+
 
 ## Features
 - It is not minimalistic. Author is too lazy to come up with an actual name.
